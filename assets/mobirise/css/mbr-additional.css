@@ -1373,12 +1373,14 @@ body {
   display: none;
 }
 .cid-qyu57uAh74 {
-  background-image: url("../../../assets/images/bedup-campus-05-email-1600x1067-1600x1067.jpg");
+  background-image: url("../../../assets/images/slider-1.gif");
 }
 .cid-qyu57uAh74 .form-container {
   transition: all .2s;
   border: 1px solid #ffffff;
   padding: 1rem;
+  background: linear-gradient(#149dcc, #ff3366);
+  border: none;
 }
 .cid-qyu57uAh74 .input-group-btn {
   justify-content: center;
@@ -1391,6 +1393,7 @@ body {
 .cid-qyu57uAh74 .mbr-text,
 .cid-qyu57uAh74 .mbr-section-btn {
   text-align: right;
+  color: #ffffff;
 }
 .cid-qyu57uAh74 H1 {
   text-align: right;
@@ -1658,8 +1661,8 @@ body {
   text-align: center;
 }
 .cid-qzf1mbn3io {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qzf1mbn3io .mbr-section-subtitle {
@@ -1714,28 +1717,6 @@ body {
     width: 100% !important;
     height: auto !important;
   }
-}
-.cid-qyzGDO7v1L {
-  padding-top: 45px;
-  padding-bottom: 75px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
-}
-@media (min-width: 992px) {
-  .cid-qyzGDO7v1L .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qyzGDO7v1L .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-qyzGDO7v1L .mbr-text,
-.cid-qyzGDO7v1L .mbr-section-btn {
-  color: #767676;
-}
-.cid-qyzGDO7v1L .mbr-section-title DIV {
-  color: #149dcc;
 }
 .cid-qyMAiLQuYO {
   padding-top: 60px;
