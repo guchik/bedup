@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
 
 
 
@@ -20,35 +20,35 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -653,7 +653,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1616,7 +1616,7 @@ body {
   text-align: center;
 }
 .cid-qyu5b8ZCJw {
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 90px;
   background-color: #f9f9f9;
 }
@@ -1664,7 +1664,7 @@ body {
   background-image: url("../../../assets/images/cover-884x662.jpg");
 }
 .cid-qzf1mbn3io .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-qzf1mbn3io .media-container-row {
   -webkit-flex-wrap: wrap;
@@ -1717,7 +1717,7 @@ body {
   }
 }
 .cid-qzf1mbn3io DIV {
-  color: #cfc8b0;
+  color: #ffffff;
 }
 .cid-qyMAiLQuYO {
   padding-top: 60px;
@@ -1790,12 +1790,18 @@ body {
   color: #ffffff;
 }
 .cid-qyMAiLQuYO H5 {
-  color: #e4d295;
+  color: #767676;
+}
+.cid-qyMAiLQuYO .copyright > p {
+  text-align: right;
 }
 .cid-qyMA9ke7Hw {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #ffffff;
+}
+.cid-qyMA9ke7Hw .media-container-row .mbr-text {
+  color: #767676;
 }
 .cid-qAcu4gGdfv .navbar {
   background: #ffffff;
@@ -1957,7 +1963,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #cfc8b0;
 }
 .cid-qAcu4gGdfv button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2174,6 +2180,9 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-qyMA9ke7Hw .media-container-row .mbr-text {
+  color: #767676;
+}
 .cid-qAcu4gGdfv .navbar {
   background: #ffffff;
   transition: none;
@@ -2334,7 +2343,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #cfc8b0;
 }
 .cid-qAcu4gGdfv button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2549,7 +2558,7 @@ body {
 .cid-qQLE5XRZxf {
   padding-top: 90px;
   padding-bottom: 60px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-qQLE5XRZxf h2 {
   text-align: left;
@@ -2625,4 +2634,7 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+.cid-qQLG3jtlZI .media-container-row .mbr-text {
+  color: #767676;
 }
