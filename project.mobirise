@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bedding landing",
-    "currentPage": "page1.html",
+    "currentPage": "thankyou.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1031,9 +1031,9 @@
         }
       ]
     },
-    "page1.html": {
+    "thankyou.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "thank you \n© Copyright 2014- 2018 BedUpIsrael® ",
         "title": "Thank you for your call",
         "order": 1
       },
